@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}#lik{
+    gap: 20px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    background-color: rgb(74, 88, 104);
+
+}.k{
+  display: flex;
+  color: white;
+  background-color: rgb(74, 88, 104);
+  justify-content: center;
+}
+    
+body{
+    background-image: url("https://i.pinimg.com/564x/b4/c6/14/b4c614d4b4984db1bf5c1e2a9e24eed3.jpg");
+}.j{
+    color: aliceblue;
+    display: flex;
+    justify-content: right;
+    
+}
+
+a{
+    color: inherit;
+    background-color: inherit;
+}
